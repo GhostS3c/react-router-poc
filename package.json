@@ -1,0 +1,16 @@
+{
+  "name": "react-router-poc",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "react-router dev ./index.js",
+    "start": "react-router serve ./index.js"
+  },
+  "dependencies": {
+    "@react-router/node": "^7.5.0",
+    "@react-router/serve": "^7.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.5.0"
+  }
+}
